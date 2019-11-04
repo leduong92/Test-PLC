@@ -1,0 +1,6 @@
+﻿  main.cpp
+\\v020\system\duong\project1\project1\cmelp1e.h(10): warning C4005: 'UDP_MELPORT': macro redefinition
+  \\v020\system\duong\project1\project1\cmelp3e.h(9): note: see previous definition of 'UDP_MELPORT'
+\\v020\system\duong\project1\project1\main.cpp(27): warning C4101: 'buf': unreferenced local variable
+  Project1.vcxproj -> \\v020\System\Duong\Project1\Debug\Project1.exe
+  Project1.vcxproj -> \\v020\System\Duong\Project1\Debug\Project1.pdb (Partial PDB)
